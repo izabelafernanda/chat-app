@@ -115,6 +115,7 @@ cd chat-app
 - **🌟 Mensagens Destacadas**: As mensagens enviadas pelo usuário logado são destacadas com uma cor de fundo diferente. 
 - **🔄 Atualização Automática**: As mensagens são automaticamente atualizadas a cada 5 segundos para garantir uma experiência de chat em tempo real.
 - **💬 Enviar e Receber Mensagens**: O usuário pode enviar mensagens e visualizar as respostas anteriores em tempo real.
+- **🔙 Tecla Voltar**: O usuário pode retornar à tela inicial clicando no botão azul "seta" no canto superior esquerdo, próximo ao título da tela de chat. A funcionalidade permite navegar facilmente de volta para a tela de entrada sem perder o histórico de mensagens.
 
 ---
 
