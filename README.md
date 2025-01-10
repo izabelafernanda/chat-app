@@ -6,12 +6,12 @@ Bem-vindo ao repositório do **Projeto de Chat**! Este projeto foi desenvolvido 
 
 O objetivo deste projeto foi criar uma aplicação simples que simula a funcionalidade de um **chat**. A aplicação é composta por um **backend** que gerencia as mensagens e um **frontend** em React que exibe e envia as mensagens.
 
-### 🛠 Stack Permitida
+### 🛠 Stack Utilizada 
 
 - **Backend**: Node.js
 - **Frontend**: React
 
-### Etapas da Prova
+### Etapas do Teste Técnico
 
 #### a) **Back end**  
 Implemente uma API RESTful para gerenciar mensagens de um chat. A API tem as seguintes rotas:
@@ -47,6 +47,15 @@ Implemente uma interface para exibir e enviar mensagens:
 - **Node.js** (versão 16 ou superior)
 - **npm** (gerenciador de pacotes do Node.js)
 - **React** (usado no frontend)
+
+### 📥 Clonando o Repositório
+
+Primeiramente, clone o repositório para o seu computador:
+
+```bash
+git clone https://github.com/izabelafernanda/chat-app.git
+cd chat-app
+```
 
 ### Passos para Rodar o Backend
 
@@ -103,7 +112,7 @@ Implemente uma interface para exibir e enviar mensagens:
 
 ## ✨ Funcionalidades
 
-- **🌟 Mensagens Destacadas**: As mensagens enviadas pelo usuário logado são destacadas com uma cor de fundo diferente e um asterisco.
+- **🌟 Mensagens Destacadas**: As mensagens enviadas pelo usuário logado são destacadas com uma cor de fundo diferente. 
 - **🔄 Atualização Automática**: As mensagens são automaticamente atualizadas a cada 5 segundos para garantir uma experiência de chat em tempo real.
 - **💬 Enviar e Receber Mensagens**: O usuário pode enviar mensagens e visualizar as respostas em tempo real.
 
@@ -118,6 +127,10 @@ Abaixo, você pode ver os resultados visuais da aplicação em funcionamento.
 ![image](https://github.com/user-attachments/assets/9c534b71-baaa-47ed-b33e-80a99c7cdc0e)
 
 ### Tela de Chat:
+
+![image](https://github.com/user-attachments/assets/8a506066-3f8a-4c61-bdfa-54355dd21ff3)
+![image](https://github.com/user-attachments/assets/754fe5c8-6420-4078-b485-0205928b7f1e)
+![image](https://github.com/user-attachments/assets/527ad42d-1f9b-4cbb-b3fc-7a3ec0cf9651)
 
 
 ---
