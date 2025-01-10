@@ -114,7 +114,7 @@ cd chat-app
 
 - **🌟 Mensagens Destacadas**: As mensagens enviadas pelo usuário logado são destacadas com uma cor de fundo diferente. 
 - **🔄 Atualização Automática**: As mensagens são automaticamente atualizadas a cada 5 segundos para garantir uma experiência de chat em tempo real.
-- **💬 Enviar e Receber Mensagens**: O usuário pode enviar mensagens e visualizar as respostas em tempo real.
+- **💬 Enviar e Receber Mensagens**: O usuário pode enviar mensagens e visualizar as respostas anteriores em tempo real.
 
 ---
 
