@@ -126,7 +126,6 @@ Abaixo, você pode ver os resultados visuais da aplicação em funcionamento.
 
 Se você tiver dúvidas ou sugestões, não hesite em entrar em contato!
 
-- E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seuperfil)
-
+- E-mail: [izabelafernandacontato@gmail.com](mailto:izabelafernandacontato@gmail.com)
+- LinkedIn: [Izabela Fernanda Silva](https://www.linkedin.com/in/izabelafernanda)
 ---
